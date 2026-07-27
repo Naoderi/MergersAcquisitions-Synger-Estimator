@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/raw/
+data/cache/
+# Licensed-data exports (PitchBook, Bloomberg) are used offline for
+# cross-checking only and must never enter the repo or the fitted parameters.
+data/licensed/
+*.xlsx
+!templates/*.xlsx
+.DS_Store
+.pytest_cache/

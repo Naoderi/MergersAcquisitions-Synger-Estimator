@@ -1,0 +1,160 @@
+{
+  "fitted_at": "2026-07-27",
+  "shrinkage_k": 5.0,
+  "global": {
+    "sga_overlap_rate": 0.05354478595529449,
+    "cogs_overlap_rate": 0.00691832782293354,
+    "fixed_cost": 46022348.76211724
+  },
+  "sectors": {
+    "apparel": {
+      "n": 1,
+      "shrinkage_weight": 0.16666666666666666,
+      "sga_overlap_rate": 0.047667903017894434,
+      "cogs_overlap_rate": 0.006714056334010415,
+      "fixed_cost": 40853602.81557443
+    },
+    "building_products": {
+      "n": 1,
+      "shrinkage_weight": 0.16666666666666666,
+      "sga_overlap_rate": 0.048217907116830445,
+      "cogs_overlap_rate": 0.014778263632431022,
+      "fixed_cost": 40887717.05226506
+    },
+    "construction": {
+      "n": 4,
+      "shrinkage_weight": 0.4444444444444444,
+      "sga_overlap_rate": 0.05883849005006619,
+      "cogs_overlap_rate": 0.00929329849971057,
+      "fixed_cost": 25567971.534509577
+    },
+    "electronics": {
+      "n": 15,
+      "shrinkage_weight": 0.75,
+      "sga_overlap_rate": 0.013386196488823622,
+      "cogs_overlap_rate": 0.016929590042980096,
+      "fixed_cost": 74144386.46044102
+    },
+    "fabricated_metals": {
+      "n": 1,
+      "shrinkage_weight": 0.16666666666666666,
+      "sga_overlap_rate": 0.04954046490684806,
+      "cogs_overlap_rate": 0.018619656417578245,
+      "fixed_cost": 40532022.56054424
+    },
+    "food_beverage": {
+      "n": 2,
+      "shrinkage_weight": 0.2857142857142857,
+      "sga_overlap_rate": 0.058220575570235,
+      "cogs_overlap_rate": 0.008066895261416657,
+      "fixed_cost": 39127804.017372824
+    },
+    "furniture": {
+      "n": 2,
+      "shrinkage_weight": 0.2857142857142857,
+      "sga_overlap_rate": 0.04784934364289335,
+      "cogs_overlap_rate": 0.010847822179947708,
+      "fixed_cost": 37666655.74440838
+    },
+    "healthcare_services": {
+      "n": 3,
+      "shrinkage_weight": 0.375,
+      "sga_overlap_rate": 0.03346549122205905,
+      "cogs_overlap_rate": 0.005049063471994056,
+      "fixed_cost": 38075629.01662544
+    },
+    "industrial_machinery": {
+      "n": 13,
+      "shrinkage_weight": 0.7222222222222222,
+      "sga_overlap_rate": 0.014873551654248468,
+      "cogs_overlap_rate": 0.019549193472352296,
+      "fixed_cost": 26896280.89180895
+    },
+    "instruments": {
+      "n": 12,
+      "shrinkage_weight": 0.7058823529411765,
+      "sga_overlap_rate": 0.05704509234220896,
+      "cogs_overlap_rate": 0.018885253644952554,
+      "fixed_cost": 24480000.489543557
+    },
+    "paper_packaging": {
+      "n": 2,
+      "shrinkage_weight": 0.2857142857142857,
+      "sga_overlap_rate": 0.06009049534529949,
+      "cogs_overlap_rate": 0.005754310137596945,
+      "fixed_cost": 43913312.232537575
+    },
+    "pharma_chemicals": {
+      "n": 11,
+      "shrinkage_weight": 0.6875,
+      "sga_overlap_rate": 0.09853681247877757,
+      "cogs_overlap_rate": 0.002161977444666731,
+      "fixed_cost": 27601526.34908499
+    },
+    "professional_services": {
+      "n": 3,
+      "shrinkage_weight": 0.375,
+      "sga_overlap_rate": 0.03346549122205905,
+      "cogs_overlap_rate": 0.004323954889333462,
+      "fixed_cost": 57894272.6731637
+    },
+    "retail": {
+      "n": 7,
+      "shrinkage_weight": 0.5833333333333334,
+      "sga_overlap_rate": 0.04294546497997043,
+      "cogs_overlap_rate": 0.007179474674779087,
+      "fixed_cost": 64432826.873551026
+    },
+    "rubber_plastics": {
+      "n": 3,
+      "shrinkage_weight": 0.375,
+      "sga_overlap_rate": 0.05391786427442166,
+      "cogs_overlap_rate": 0.004323954889333462,
+      "fixed_cost": 41403296.369395435
+    },
+    "software_services": {
+      "n": 12,
+      "shrinkage_weight": 0.7058823529411765,
+      "sga_overlap_rate": 0.04286825127222714,
+      "cogs_overlap_rate": 0.0020348023008628056,
+      "fixed_cost": 80024771.14372417
+    },
+    "telecom": {
+      "n": 11,
+      "shrinkage_weight": 0.6875,
+      "sga_overlap_rate": 0.13488753543941973,
+      "cogs_overlap_rate": 0.002161977444666731,
+      "fixed_cost": 14381983.988161637
+    },
+    "transport_equipment": {
+      "n": 2,
+      "shrinkage_weight": 0.2857142857142857,
+      "sga_overlap_rate": 0.07724571158915983,
+      "cogs_overlap_rate": 0.006531416973611507,
+      "fixed_cost": 37387365.051945195
+    },
+    "unknown": {
+      "n": 7,
+      "shrinkage_weight": 0.5833333333333334,
+      "sga_overlap_rate": 0.0223103274813727,
+      "cogs_overlap_rate": 0.029117958479499016,
+      "fixed_cost": 39609845.17297737
+    },
+    "utilities": {
+      "n": 2,
+      "shrinkage_weight": 0.2857142857142857,
+      "sga_overlap_rate": 0.04451079645185991,
+      "cogs_overlap_rate": 0.00566609569896671,
+      "fixed_cost": 37213793.69082006
+    },
+    "wholesale": {
+      "n": 5,
+      "shrinkage_weight": 0.5,
+      "sga_overlap_rate": 0.04022478449813008,
+      "cogs_overlap_rate": 0.012356342450099804,
+      "fixed_cost": 23011174.38105862
+    }
+  },
+  "n_deals": 153,
+  "train_through": 2022
+}
